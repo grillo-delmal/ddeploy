@@ -1,0 +1,9 @@
+name "ddeploy"
+description "Deploy D applications for distribution"
+authors "Luna"
+copyright "Copyright © 2024, Luna"
+license "BSD-2-Clause"
+dependency "sdlang-d" version="~>0.10.6"
+dependency "dxml" version="~>0.4.4"
+
+targetPath "out/"
